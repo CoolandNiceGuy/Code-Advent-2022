@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "scripts": {
+    "day1": "node day-1/advent-day-1.js",
+    "day2": "node day-2/advent-day-2.js"
+  }
+}
