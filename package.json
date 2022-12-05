@@ -2,6 +2,9 @@
   "type": "module",
   "scripts": {
     "day1": "node day-1/advent-day-1.js",
-    "day2": "node day-2/advent-day-2.js"
+    "day2": "node day-2/advent-day-2.js",
+    "day3": "node day-3/advent-day-3.js",
+    "day4": "node day-4/advent-day-4.js",
+    "day5": "node day-5/advent-day-5.js"
   }
 }
